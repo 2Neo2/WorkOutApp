@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ECC9B9E9-C104-4037-AF01-D8967CB1EA4D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36B329B2-8A6F-4ADA-83AB-977720BFAB6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkoutApp/ViewControllers/Session/SessionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "setupView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF1E8BA2-FAB9-4C0D-B20E-38EF9A475D21"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkoutApp/ViewControllers/Session/SessionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "addViews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AF1E8BA2-FAB9-4C0D-B20E-38EF9A475D21 - 7e6c3a800b698197"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorkoutApp.SessionViewController.addViews() -&gt; ()"
+                  moduleName = "WorkoutApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivandoronin/XcodeProgram/WorkoutApp/WorkoutApp/ViewControllers/Session/SessionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "73">
+               </Location>
+               <Location
+                  uuid = "AF1E8BA2-FAB9-4C0D-B20E-38EF9A475D21 - 7e6c3a800b6981b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorkoutApp.SessionViewController.addViews() -&gt; ()"
+                  moduleName = "WorkoutApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivandoronin/XcodeProgram/WorkoutApp/WorkoutApp/ViewControllers/Session/SessionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2B01EA3-0180-49AB-8201-595108A34A99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkoutApp/ViewControllers/Base/BaseInfoView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "addViews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F2B01EA3-0180-49AB-8201-595108A34A99 - 6f48727dabf2c0f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorkoutApp.BaseInfoView.addViews() -&gt; ()"
+                  moduleName = "WorkoutApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivandoronin/XcodeProgram/WorkoutApp/WorkoutApp/ViewControllers/Base/BaseInfoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "F2B01EA3-0180-49AB-8201-595108A34A99 - 6f48727dabf2c116"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorkoutApp.BaseInfoView.addViews() -&gt; ()"
+                  moduleName = "WorkoutApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivandoronin/XcodeProgram/WorkoutApp/WorkoutApp/ViewControllers/Base/BaseInfoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "93">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1100E624-8D0B-47BC-BF7D-5F7EF595DB78"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkoutApp/ViewControllers/Overview/Views/WorkoutAppButton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "label"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D057258B-57C0-415E-8C54-D867EFF2C476"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkoutApp/ViewControllers/Overview/Views/WorkoutAppButton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "setupViews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D057258B-57C0-415E-8C54-D867EFF2C476 - b1094bfd01d3d216"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorkoutApp.WorkoutAppButton.setupViews() -&gt; ()"
+                  moduleName = "WorkoutApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivandoronin/XcodeProgram/WorkoutApp/WorkoutApp/ViewControllers/Overview/Views/WorkoutAppButton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "D057258B-57C0-415E-8C54-D867EFF2C476 - b1094bfd01d3d216"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorkoutApp.WorkoutAppButton.setupViews() -&gt; ()"
+                  moduleName = "WorkoutApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivandoronin/XcodeProgram/WorkoutApp/WorkoutApp/ViewControllers/Overview/Views/WorkoutAppButton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
